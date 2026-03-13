@@ -4,7 +4,7 @@ export default function Profile() {
        <img
         src="/eu.jpeg"
         width="200"
-        style={{ borderRadius: "50%" }}
+        style={{ borderRadius: "40%" }}
       />
 
       <h2>Adriel Bibiano</h2>
